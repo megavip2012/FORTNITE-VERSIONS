@@ -220,3 +220,4 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/20.40.zip|
+
